@@ -7,4 +7,5 @@ Install `glsl-canvas` VSCode extension: https://marketplace.visualstudio.com/ite
 
 ### Run
 - enter `Show glslCanvas` command in VSCode
-- open `src/terrain.glsl` file
+- open `src/terrain.glsl` file (you should see the canonical fragment shader)
+- uncomment steps within `src/terrain.glsl` to progress through the tutorial
